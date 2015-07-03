@@ -1,0 +1,21 @@
+
+body, ol, li, a, div, p{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: Helvetica, sans-serif;
+    margin: 50px;
+    background-color: lightgray;
+}
+
+ol li{
+    padding: 2px;
+}
+a{
+    text-decoration: none;
+}
+header {
+    background-color: darkgray;
+
+}
